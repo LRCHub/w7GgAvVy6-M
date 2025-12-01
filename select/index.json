@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ODD NUMBER",
+  "base_artist": "吉乃",
+  "createdAt": "2025-12-01T11:14:12.851733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ODD NUMBER",
+      "artist": "吉乃",
+      "has_synced": true,
+      "path": "select/01_ODD_NUMBER_吉乃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Odd Numbers",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_01_Odd_Numbers_梅田サイファー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ODD NUMBER",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_02_ODD_NUMBER_梅田サイファー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ODD NUMBER feat. 卯木祐矢",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_03_ODD_NUMBER_feat._卯木祐矢_梅田サイファー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Odd Number",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_04_Odd_Number_梅田サイファー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ODD NUMBER",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_05_ODD_NUMBER_梅田サイファー.txt"
+    }
+  ]
+}
